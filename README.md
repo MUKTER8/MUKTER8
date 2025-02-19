@@ -20,7 +20,8 @@ I'm Mukter Hosain, a Computer Science student at Port City International Univers
 ## 🧠 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/mukterhosain)
 - [Facebook](https://www.facebook.com/MUKTER.HOSAIN.8)
-- - [Github](https://www.github.com/MUKTER8)
+- [Github](https://www.github.com/MUKTER8)
+- [X](https://www.x.com/MUKTERHOSAIN8)
 
 Feel free to explore my repositories and check out my projects. I'm always open to collaborations and learning new things!
 
