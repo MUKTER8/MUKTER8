@@ -1,14 +1,24 @@
 -------------------------------------------------------------- W E L L C O M E 👋 -----------------------------------------------------------------
 
 
-Here are some ideas to get you started:
+# 👋 Welcome to My GitHub Profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm Mukter Hosain, a Computer Science student at Port City International University, Chittagong, Bangladesh. I'm passionate about coding, building startups, and creating innovative tech solutions that have a real-world impact.
+
+## 🔧 Technologies & Tools
+- **Languages:** Python, C++, JavaScript
+- **Frameworks & Tools:** Django, Flask, Node.js, Git, Docker
+- **Database:** MySQL, MongoDB
+- **Cloud:** AWS, Google Cloud Platform
+- **Other:** Machine Learning, Data Analysis, Web Development
+
+## 📚 Currently Working On
+- Building a **micro-investment platform** to connect small businesses with investors in Bangladesh.
+- Exploring **AI/ML** and its applications in startup ecosystems.
+
+## 🧠 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/mukterhosain)
+- [Facebook](https://www.facebook.com/MUKTER.HOSAIN.8)
+
+Feel free to explore my repositories and check out my projects. I'm always open to collaborations and learning new things!
 
