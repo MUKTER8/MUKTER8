@@ -1,5 +1,3 @@
-![I am ](https://media.licdn.com/dms/image/v2/D4D16AQF-pIS67LNZKw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737439691270?e=1745452800&v=beta&t=K91BFVQ7novc5wttBhVmVPe3WAKj40i8MVMuCumduHE)
-
 -------------------------------------------------------------- W E L L C O M E 👋 -----------------------------------------------------------------
 
 # 👋 Welcome to My GitHub Profile! (MUKTER8)
